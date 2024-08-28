@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Narkar\\source\\repos\\MayBatch1WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A0E9B8-EA63-47D4-AEEB-0320A7E1883A}|MayBatch1WebApplication1\\MayBatch1WebApplication1.csproj|c:\\users\\rajesh narkar\\source\\repos\\maybatch1webapplication1\\maybatch1webapplication1\\generatepdf.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A0E9B8-EA63-47D4-AEEB-0320A7E1883A}|MayBatch1WebApplication1\\MayBatch1WebApplication1.csproj|solutionrelative:maybatch1webapplication1\\generatepdf.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A0E9B8-EA63-47D4-AEEB-0320A7E1883A}|MayBatch1WebApplication1\\MayBatch1WebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\MayBatch1WebApplication1\\maybatch1webapplication1\\generatepdf.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F1A0E9B8-EA63-47D4-AEEB-0320A7E1883A}|MayBatch1WebApplication1\\MayBatch1WebApplication1.csproj|solutionrelative:maybatch1webapplication1\\generatepdf.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A0E9B8-EA63-47D4-AEEB-0320A7E1883A}|MayBatch1WebApplication1\\MayBatch1WebApplication1.csproj|C:\\Users\\Rajesh Narkar\\source\\repos\\MayBatch1WebApplication1\\maybatch1webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F1A0E9B8-EA63-47D4-AEEB-0320A7E1883A}|MayBatch1WebApplication1\\MayBatch1WebApplication1.csproj|solutionrelative:maybatch1webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\MayBatch1WebApplication1\\MayBatch1WebApplication1\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "MayBatch1WebApplication1\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\MayBatch1WebApplication1\\MayBatch1WebApplication1\\WebForm1.aspx",
+              "RelativeToolTip": "MayBatch1WebApplication1\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-03T04:20:54.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneratePDF.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\MayBatch1WebApplication1\\MayBatch1WebApplication1\\GeneratePDF.aspx",
+              "RelativeDocumentMoniker": "MayBatch1WebApplication1\\GeneratePDF.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\MayBatch1WebApplication1\\MayBatch1WebApplication1\\GeneratePDF.aspx",
+              "RelativeToolTip": "MayBatch1WebApplication1\\GeneratePDF.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T19:54:17.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneratePDF.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\MayBatch1WebApplication1\\MayBatch1WebApplication1\\GeneratePDF.aspx.cs",
+              "RelativeDocumentMoniker": "MayBatch1WebApplication1\\GeneratePDF.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\MayBatch1WebApplication1\\MayBatch1WebApplication1\\GeneratePDF.aspx.cs",
+              "RelativeToolTip": "MayBatch1WebApplication1\\GeneratePDF.aspx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:56:52.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
